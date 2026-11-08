@@ -247,3 +247,27 @@ Available shapes include:
 **لبنى | Created by Lobna**
 
 © 2026 KHWARIZMAX. All rights reserved.
+
+
+## 📩 Contact & Collaboration
+
+Interested in KHWARIZMAX, software development, or a potential collaboration?
+
+For inquiries, collaboration opportunities, or a project demonstration, please contact:
+
+**GitHub:** https://github.com/lobnaalonaa
+
+**Email:** [Your professional contact email]
+
+---
+
+## 📩 التواصل والتعاون
+
+إذا كنت مهتمًا بتطبيق KHWARIZMAX أو بالتعاون في مشاريع برمجية، يمكنك التواصل عبر:
+
+**GitHub:** https://github.com/lobnaalonaa
+
+**البريد الإلكتروني:** [بريد التواصل المهني]
+
+
+
